@@ -20,7 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetechboy3&theme=radical&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://dynamic-badges.maxalpha.repl.co/age/25/05/1998" />
+<img src="https://dynamic-badges.maxalpha.repl.co/age/1998/05/25" />
 </p>
 
 
